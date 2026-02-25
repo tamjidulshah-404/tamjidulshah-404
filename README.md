@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tamjidul Shah
 
-🎬 Video Editor | 🧪 QA Tester | 📊 Data Analytics Learner
+🎬 Video Editor | 🧪 QA Tester | 📊 Data Analytics
 
 ---
 
